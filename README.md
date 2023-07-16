@@ -1,6 +1,6 @@
 # Análise da Distribuição da Duração dos Filmes
 
-Este projeto tem como objetivo explorar a distribuição da duração dos filmes e identificar se existe uma tendência para filmes mais curtos ou mais longos ao longo do tempo.
+Análise de tendências de lançamentos: Identificar e visualizar as tendências de lançamentos de filmes ao longo do tempo, como número de lançamentos por ano, distribuição de lançamentos por idioma, etc.
 
 ## Pré-requisitos
 
